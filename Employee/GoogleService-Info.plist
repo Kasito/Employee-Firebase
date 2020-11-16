@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>956179259198-o9e47j01q52s5f4m4jlhfr9lk7ct1elr.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.956179259198-o9e47j01q52s5f4m4jlhfr9lk7ct1elr</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCyWYT85HMdMQ1IbMmZp8ysIP9hOL0Usy4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>956179259198</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>-981kasito-gmail.com.Employee</string>
+	<key>PROJECT_ID</key>
+	<string>employee-45b90</string>
+	<key>STORAGE_BUCKET</key>
+	<string>employee-45b90.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:956179259198:ios:3d868edf9dea516ee0966f</string>
+	<key>DATABASE_URL</key>
+	<string>https://employee-45b90.firebaseio.com</string>
+</dict>
+</plist>
